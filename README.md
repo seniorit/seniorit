@@ -8,11 +8,11 @@ Within my stack of technologies I identify the following ordered by the domain o
 |----:|--------------------------------------|
 |    1| C# / .Net core                       |
 |    2| PHP / Laravel / Codeigniter/Pure PHP |
-|    3| NODEJS Apis  / Express|ORM           |           
+|    3| NODEJS Apis  / Express /ORM          |           
 |    4| TypesScript  / Angular               |
 |    5| TypesScript  / Angular               |
-|    6| TypesScript  / IONIC/Angular         |
-|    7| JavaScript   / TypesScript/REACT     |           
+|    6| TypesScript  / IONIC / Angular       |
+|    7| JavaScript   / TypesScript / REACT   |           
 |    8| Flutter      / Android               |
 | Rank|       DATABASE MANAGEMENT SYSTEMS    |
 |    1| SQL Server                           |
