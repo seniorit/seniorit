@@ -4,25 +4,25 @@ I am Ricardo Albornoz 💙, a Systems Engineer for 12 years. During my experienc
 
 Within my stack of technologies I identify the following ordered by the domain over these.
 
-| Rank|       Languages / Technologies       |
-|----:|--------------------------------------|
-|    1| C# / .Net core                       |
-|    2| PHP / Laravel / Codeigniter/Pure PHP |
-|    3| NODEJS Apis  / Express /ORM          |           
-|    4| TypesScript  / Angular               |
-|    5| TypesScript  / Angular               |
-|    6| TypesScript  / IONIC / Angular       |
-|    7| JavaScript   / TypesScript / REACT   |           
-|    8| Flutter      / Android               |
-| Rank|       DATABASE MANAGEMENT SYSTEMS    |
-|    1| SQL Server                           |
-|    2| MySQL / Mariadb                      |
-|    3| Postgress                            |
-|    4| MongoDB                              |
-|    5| Cassandra                            |
+| Rank|       Languages / Technologies       | Age |
+|----:|--------------------------------------|-----|
+|    1| C# / .Net core                       |  12 |
+|    2| PHP / Laravel / Codeigniter/Pure PHP |  10 |
+|    3| NODEJS Apis  / Express /ORM          |   8 |        
+|    4| TypesScript  / Angular               |   8 |
+|    5| TypesScript  / Angular               |   8 |
+|    6| TypesScript  / IONIC / Angular       |   7 |
+|    7| JavaScript   / TypesScript / REACT   |   6 |      
+|    8| Flutter      / Android               |   3 |
+| Rank|       DATABASE MANAGEMENT SYSTEMS    |     |
+|    1| SQL Server                           |  13 |
+|    2| MySQL / Mariadb                      |  10 |
+|    3| Postgress                            |  10 |
+|    4| MongoDB                              |   4 |
+|    5| Cassandra                            |   6 |
 
 Extras about me.
-- 🔭 I'm working on different projects with [Flutter/Angular/Laravel].
+- 🔭 I'm working on different projects with [Flutter/Angular/Laravel/Nodejs].
 - 🌱 Passionate about rock music since I can remember.
 - 🎸 My guitar 🎸 is the third princess after my two daughters 😄. The princesses of my universe .
 - 😄 Pronouns: He/Him/His.
