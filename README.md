@@ -6,20 +6,20 @@ Within my stack of technologies I identify the following ordered by the domain o
 
 | Rank|       Languages / Technologies       | Age |
 |----:|--------------------------------------|-----|
-|    1| C# / .Net core                       |  12 |
-|    2| PHP / Laravel / Codeigniter/Pure PHP |  10 |
-|    3| NODEJS Apis  / Express /ORM          |   8 |        
-|    4| TypesScript  / Angular               |   8 |
-|    5| TypesScript  / Angular               |   8 |
-|    6| TypesScript  / IONIC / Angular       |   7 |
-|    7| JavaScript   / TypesScript / REACT   |   6 |      
-|    8| Flutter      / Android               |   3 |
+|    1| C# / .Net core                       |  13 |
+|    2| PHP / Laravel / Codeigniter/Pure PHP |  11 |
+|    3| NODEJS Apis  / Express /ORM          |   9 |        
+|    4| TypesScript  / Angular               |   9 |
+|    5| TypesScript  / Angular               |   9 |
+|    6| TypesScript  / IONIC / Angular       |   8 |
+|    7| JavaScript   / TypesScript / REACT   |   7 |      
+|    8| Flutter      / Android               |   4 |
 | Rank|       DATABASE MANAGEMENT SYSTEMS    |     |
-|    1| SQL Server                           |  13 |
-|    2| MySQL / Mariadb                      |  10 |
-|    3| Postgress                            |  10 |
-|    4| MongoDB                              |   4 |
-|    5| Cassandra                            |   6 |
+|    1| SQL Server                           |  14 |
+|    2| MySQL / Mariadb                      |  11 |
+|    3| Postgress                            |  11 |
+|    4| MongoDB                              |   5 |
+|    5| Cassandra                            |   7 |
 
 Extras about me.
 - 🔭 I'm working on different projects with [Flutter/Angular/Laravel/Nodejs].
