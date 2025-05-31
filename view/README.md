@@ -4,24 +4,26 @@ I am Ricardo Albornoz 💙, a Systems Engineer for 12 years. During my experienc
 
 Within my stack of technologies I identify the following ordered by the domain over these.
 
-| Rank|       Languages / Technologies       | Age |
-|----:|--------------------------------------|-----|
-|    1| C# / .Net core                       |  13 |
-|    2| PHP / Laravel / Codeigniter/Pure PHP |  11 |
-|    3| NODEJS Apis  / Express /ORM          |   9 |        
-|    4| TypesScript  / Angular               |   9 |
-|    5| TypesScript  / Angular               |   9 |
-|    6| TypesScript  / IONIC / Angular       |   8 |
-|    7| JavaScript   / TypesScript / REACT   |   7 |      
-|    8| Flutter      / Android               |   4 |
-| Rank|       DATABASE MANAGEMENT SYSTEMS    |     |
-|    1| SQL Server                           |  14 |
-|    2| MySQL / Mariadb                      |  11 |
-|    3| Postgress                            |  11 |
-|    4| MongoDB                              |   5 |
-|    5| Cassandra                            |   7 |
+| Rank | Languages / Technologies             | Age |
+| ---: | ------------------------------------ | --- |
+|    1 | C# / .Net core                       | 13  |
+|    2 | PHP / Laravel / Codeigniter/Pure PHP | 11  |
+|    3 | NODEJS Apis / Express /ORM           | 9   |
+|    4 | TypesScript / Angular                | 9   |
+|    5 | TypesScript / Angular                | 9   |
+|    6 | TypesScript / IONIC / Angular        | 8   |
+|    7 | JavaScript / TypesScript / REACT     | 7   |
+|    8 | Flutter / Android                    | 4   |
+| Rank | DATABASE MANAGEMENT SYSTEMS          |     |
+|    1 | SQL Server                           | 14  |
+|    2 | MySQL / Mariadb                      | 11  |
+|    3 | Postgress                            | 11  |
+|    4 | MongoDB                              | 5   |
+|    5 | Cassandra                            | 2   |
+|    6 | Redis                                | 2   |
 
 Extras about me.
+
 - 🔭 I'm working on different projects with [Flutter/Angular/Laravel/Nodejs].
 - 🌱 Passionate about rock music since I can remember.
 - 🎸 My guitar 🎸 is the third princess after my two daughters 😄. The princesses of my universe .
