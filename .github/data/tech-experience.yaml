@@ -1,0 +1,28 @@
+# .github/data/tech-experience.yaml
+languages:
+  - name: "C# / .Net core"
+    since: 2010
+  - name: "PHP / Laravel / Codeigniter/Pure PHP"
+    since: 2012
+  - name: "NODEJS Apis / Express /ORM"
+    since: 2014
+  - name: "TypeScript / Angular"
+    since: 2014
+  - name: "TypeScript / IONIC / Angular"
+    since: 2015
+  - name: "JavaScript / TypeScript / REACT"
+    since: 2016
+  - name: "Flutter / Android"
+    since: 2019
+
+databases:
+  - name: "SQL Server"
+    since: 2009
+  - name: "MySQL / Mariadb"
+    since: 2012
+  - name: "PostgreSQL"
+    since: 2012
+  - name: "MongoDB"
+    since: 2018
+  - name: "Cassandra"
+    since: 2021
