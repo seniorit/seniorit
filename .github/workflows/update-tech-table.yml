@@ -1,0 +1,32 @@
+name: Update Tech Experience Table
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # Ejecuta el primer día de cada mes
+  workflow_dispatch: # Permite ejecutar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install js-yaml
+
+      - name: Run script
+        run: node scripts/update-tech-table.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "🤖 Actualizado tabla de experiencia técnica"
+          git push
