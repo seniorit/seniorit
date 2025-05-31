@@ -1,6 +1,15 @@
-### Hello there 👋 (Rokr mode)
+👋 Hello, I'm **Ricardo Albornoz** 💙
+I'm a qualified Systems Engineer 👨‍💻, with a master's degree in database development and a diploma in software project management.
 
-I am Ricardo Albornoz 💙, a Systems Engineer for 12 years. During my experience, I have worked with different technologies mainly focused on the administrative and business accounting area.
+🔧 Specialized in backend development and business analytics, with over 13 years of experience building scalable solutions for administrative, accounting, and financial sectors.
+
+📌 My strengths:
+- Effective communication between technical teams and business areas (I translate accounting jargon into technical language and vice versa)
+- Pre-design-oriented methodology: frequent use of flowcharts and UML models before coding
+- Detailed process documentation, technical reports, and executive reports
+- Development focused on code quality, clarity, and sustainability
+
+📩 Shall we work together or share knowledge? Contact me!
 
 Within my stack of technologies I identify the following ordered by the domain over these.
 
