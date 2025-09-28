@@ -22,14 +22,14 @@ Within my stack of technologies I identify the following ordered by the domain o
 |    5 | TypesScript / Angular                | 9   |
 |    6 | TypesScript / IONIC / Angular        | 8   |
 |    7 | JavaScript / TypesScript / REACT     | 7   |
-|    8 | Flutter / Android                    | 4   |
+|    8 | Flutter / Android                    | 5   |
 | Rank | DATABASE MANAGEMENT SYSTEMS          |     |
 |    1 | SQL Server                           | 14  |
-|    2 | MySQL / Mariadb                      | 11  |
-|    3 | Postgress                            | 11  |
-|    4 | MongoDB                              | 5   |
-|    5 | Cassandra                            | 2   |
-|    6 | Redis                                | 2   |
+|    2 | MySQL / Mariadb                      | 12  |
+|    3 | Postgress                            | 12  |
+|    4 | MongoDB                              | 6   |
+|    5 | Cassandra                            | 4   |
+|    6 | Redis                                | 4   |
 
 Extras about me.
 
